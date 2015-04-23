@@ -21,8 +21,7 @@ gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem "bootstrap-sass"
 gem 'jbuilder', '~> 2.0'
-
-# Use ActiveModel has_secure_password
+gem 'devise', '~>3.4.0' 
 # gem 'bcrypt', '~> 3.1.7'
 
 # Use unicorn as the app server
